@@ -3,7 +3,7 @@
 
 ## About
 
-HAMMER2 file system
+HAMMER2 is a file system designed and implemented by Matthew Dillon for DragonFly BSD.
 
 ## Platforms
 
@@ -19,8 +19,10 @@ HAMMER2 file system
 
 ### FreeBSD
 
-+ Read-only support (write support not planned at the moment)
++ Read-only support (write support not planned)
 
-+ https://github.com/kusumi/freebsd-src/tree/hammer2_1
++ https://github.com/kusumi/freebsd_hammer2
 
-+ https://github.com/freebsd/freebsd-src/pull/627
+### NetBSD
+
++ *TBD*
