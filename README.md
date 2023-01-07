@@ -25,4 +25,6 @@ HAMMER2 is a file system designed and implemented by Matthew Dillon for DragonFl
 
 ### NetBSD
 
-+ *TBD*
++ Initial target is read-only support, but write support is also planned once read-only support is accomplished.
+
++ https://github.com/kusumi/netbsd_hammer2
