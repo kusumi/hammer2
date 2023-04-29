@@ -11,10 +11,6 @@ HAMMER2 is a file system designed and implemented by Matthew Dillon for DragonFl
 
 + https://www.dragonflybsd.org/hammer
 
-### Linux
-
-+ *TBD*
-
 ### FreeBSD
 
 + https://github.com/kusumi/freebsd_hammer2
@@ -27,8 +23,12 @@ HAMMER2 is a file system designed and implemented by Matthew Dillon for DragonFl
 
 + https://github.com/kusumi/openbsd_hammer2
 
+### Linux
+
++ *TBD*
+
 ## Misc
 
-### makefs(8) for Linux
+### FreeBSD makefs(8) for Linux / \*BSD
 
 + https://github.com/kusumi/makefs
